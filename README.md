@@ -1,2 +1,3 @@
-# laugh-circuit-media
-Public website for Laugh Circuit Media terms, privacy policy, and TikTok developer verification.
+# Laugh Circuit Media
+
+Public website for Terms of Service, Privacy Policy, and platform verification.
